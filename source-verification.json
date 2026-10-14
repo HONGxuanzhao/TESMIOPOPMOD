@@ -1,0 +1,15 @@
+{
+  "mod": "TESMIOPOPMOD",
+  "build_passed": true,
+  "machine_code_identical": true,
+  "binary_identical_except_timestamps": true,
+  "timestamp_offsets": [
+    "0x110",
+    "0x1b224"
+  ],
+  "original_sha256": "49a62fef4ea5b95ab438b7252b3e3c1151a826ae2f56d29158fdbdadf3b74d90",
+  "rebuilt_sha256": "bb9b1e694a0d4e82ea8a7a173ff80b361ea1fb8507d6fc2bef73da40f9963dd6",
+  "normalized_sha256": "c256d119e9b376c52216bf0251f6080fd4d8b0991d7de6153de2ef0c68df357d",
+  "native_regression": "not run",
+  "live_game_test": "not run"
+}

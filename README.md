@@ -112,3 +112,9 @@ Birth settings accept 0..4; the death-candidate setting accepts 0..2.
 See the INI comments for details. Technical details: COMPATIBILITY_UPDATE.md (Chinese).
 
 GitHub: https://github.com/HONGxuanzhao/TESMIOPOPMOD
+
+## Source and build / 源码与编译
+
+Original C++ source was recovered from local development records. See [SOURCE_RECOVERY.md](SOURCE_RECOVERY.md) for provenance and verification.
+
+源码从本机开发记录恢复；恢复依据与验证结果见 [SOURCE_RECOVERY.md](SOURCE_RECOVERY.md)。在 Visual Studio 的 x64 Native Tools Command Prompt 中运行 `build.cmd`，输出位于 `build/`，发布 DLL 位于 `plugins/`。
